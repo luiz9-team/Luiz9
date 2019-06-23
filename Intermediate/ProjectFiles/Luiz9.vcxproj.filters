@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Luiz9.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F3AAD864-6DF7-4C07-A313-AEF16B48E2DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Luiz9.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Luiz9Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E8155265-4F28-4946-867D-E4BB6F9C0BA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Luiz9">
+      <UniqueIdentifier>{E44C480A-5A9E-4540-B33C-17EF8F739B91}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Luiz9\Luiz9.Build.cs">
+      <Filter>Source\Luiz9</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Luiz9\Luiz9.cpp">
+      <Filter>Source\Luiz9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Luiz9\Luiz9.h">
+      <Filter>Source\Luiz9</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Luiz9\Luiz9Character.cpp">
+      <Filter>Source\Luiz9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Luiz9\Luiz9Character.h">
+      <Filter>Source\Luiz9</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Luiz9\Luiz9GameMode.cpp">
+      <Filter>Source\Luiz9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Luiz9\Luiz9GameMode.h">
+      <Filter>Source\Luiz9</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Luiz9\Luiz9PlayerController.cpp">
+      <Filter>Source\Luiz9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Luiz9\Luiz9PlayerController.h">
+      <Filter>Source\Luiz9</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

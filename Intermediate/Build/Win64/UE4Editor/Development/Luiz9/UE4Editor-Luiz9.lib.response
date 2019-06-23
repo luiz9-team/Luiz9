@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Luiz9.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\Luiz9Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9Character.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9GameMode.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9PlayerController.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9.init.gen.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9Character.gen.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9GameMode.gen.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\Luiz9PlayerController.gen.cpp.obj"
+"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\PCLaunch.rc.res"
+/OUT:"F:\Unreal Projects\Luiz9\Luiz9\Intermediate\Build\Win64\UE4Editor\Development\Luiz9\UE4Editor-Luiz9.lib"
